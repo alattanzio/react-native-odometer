@@ -1,0 +1,27 @@
+{
+  "name": "react-native-odometer",
+  "version": "1.0.0",
+  "description": "Display Odometer in React Native",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alattanzio/react-native-odometer.git"
+  },
+  "keywords": [
+    "odometer",
+    "react",
+    "native"
+  ],
+  "author": "Antonio Lattanzio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alattanzio/react-native-odometer/issues"
+  },
+  "homepage": "https://github.com/alattanzio/react-native-odometer#readme"
+}
